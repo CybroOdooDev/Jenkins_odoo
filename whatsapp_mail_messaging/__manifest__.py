@@ -21,7 +21,7 @@
 #############################################################################
 
 {
-    'name': 'Odoo Whatsapp Connector',
+    'name': 'Odoo Whatsapp Connectors',
     'version': '15.0.1.0.0',
     'category': 'Extra Tools',
     'summary': """Odoo Whatsapp Connector For Sales, Invoice, and Floating button in Website""",
